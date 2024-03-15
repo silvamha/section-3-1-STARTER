@@ -75,6 +75,11 @@ button {
   margin-right: 10px;
 }
 
+button:hover{
+  background-color: white;
+  color: black;
+}
+
 label{
   color: #fff;
 }
