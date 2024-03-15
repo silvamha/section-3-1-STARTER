@@ -55,9 +55,13 @@ section.settings {
   border: 1px solid #8d81f3;
 }
 .box {
+  background-image: url('marcela.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
   width: 150px;
   height: 150px;
-  background: #8d81f3;
+  /* background: #8d81f3; */
 }
 
 button {
